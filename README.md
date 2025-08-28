@@ -37,5 +37,5 @@ pip install numpy matplotlib pandas scipy geopandas shapely jupyter-notebook plo
 
 Jupyter notebook examples to characterize the networks, analyze, and export:
 
-- Ex01_Dolines.ipynb
+- Ex01_Dolines_alignment_karst_fracture.ipynb
 
