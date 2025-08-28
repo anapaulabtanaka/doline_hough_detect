@@ -20,11 +20,11 @@ https://doi.org/10.5194/egusphere-egu25-11154
 
 In the "data" folder, you will find:
 
-- The 
+- The circular/elipsoidal geometries for doline analyses
   - Filename: `flooded_scalgo.shp`
+  - Filename: `depression_scalgo.shp`
+    Exported from Scalgo (https://scalgo.com/): rain=10mm, area=0m^2, volume=0m^3)
  
-
-
 ## Dependencies
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following packages.
@@ -37,7 +37,5 @@ pip install numpy matplotlib pandas scipy geopandas shapely jupyter-notebook plo
 
 Jupyter notebook examples to characterize the networks, analyze, and export:
 
-- Ex11_dolines.ipynb
-
-- Ex09_Exporting_networks_graphs.ipynb
+- Ex01_Dolines.ipynb
 
