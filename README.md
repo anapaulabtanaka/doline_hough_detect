@@ -7,7 +7,7 @@ Detecting sinkhole geometries and alignments. This repository is associated with
 <br/>
 
 
-## Journal reference
+## Reference
 Tanaka, A. P. B., Trunz, C., Trottet, M., Racine, T., & Renard, P. (2025). Detecting fracture networks and karst features alignments similarities in the aquifer system of Tsanfleuron, Swiss Alps (No. EGU25-11154). Copernicus Meetings.
 
 https://doi.org/10.5194/egusphere-egu25-11154
