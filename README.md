@@ -28,10 +28,10 @@ In the "data" folder, you will find:
     Exported from Scalgo (https://scalgo.com/): rain=10mm, area=0m^2, volume=0m^3)
 
 - Fracture lineaments azimuths
- - Filename: `frac_azimuths.csv`
+  - Filename: `frac_azimuths.csv`
 
 - Conduit lineaments azimuths
- - Filename: `karst_azimuths.csv`
+  - Filename: `karst_azimuths.csv`
  
 ## Dependencies
 
