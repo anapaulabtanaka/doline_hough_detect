@@ -1,5 +1,5 @@
 # doline_hough_detect
-Detecting sinkhole geometries and alignments. This repository is associated with my PhD research, abstracts and EGU presentation. 
+Detecting dolines alignments. This repository is associated with my PhD research, abstracts and EGU presentation. 
 
 <br>
 <img src="./cover/dolines.png" alt="dolines">
